@@ -1,6 +1,7 @@
 //CLASE 7 - lunes 9 de mayo 2022
 //Estructura de Datos - Arreglos
-//Ejercicio 1
+//Ejercicio 1 (Hecho en clase 9)
+
 //Sumar Dos Arreglos
 
 /* • Sumar los elementos de cada una de las posiciones
